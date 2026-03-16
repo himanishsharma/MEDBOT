@@ -1,0 +1,6 @@
+streamlit
+chromadb
+PyPDF2
+sentence-transformers
+requests
+numpy==1.26.4
